@@ -8,8 +8,9 @@ create directory mydump as'/data/DMPDIR';
 --创建或修改逻辑目录
 create or replace directory mydump as'/home/oracle/Documents/DMPDIR';
 
+--查询逻辑目录
 select * from dba_directories;
-
+--查询表空间
 select * from dba_tablespaces;
 
 --创建表空间表空间单个文件最大最好不要超过32G
