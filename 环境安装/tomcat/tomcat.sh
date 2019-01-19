@@ -4,7 +4,7 @@
 # 
 export PATH=$PATH:$HOME/bin
 export BASH_ENV=$HOME/.bashrc
-export USERNAME="root"
+export USERNAME="app"
 
 case "$1" in
 start)
