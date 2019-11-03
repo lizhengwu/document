@@ -1,0 +1,7 @@
+Filesystem                    Size   Used  Avail Capacity iused               ifree %iused  Mounted on
+/dev/disk1s1                 233Gi  157Gi   74Gi    68% 1407495 9223372036853368312    0%   /
+devfs                        192Ki  192Ki    0Bi   100%     664                   0  100%   /dev
+/dev/disk1s4                 233Gi  2.0Gi   74Gi     3%       2 9223372036854775805    0%   /private/var/vm
+map -hosts                     0Bi    0Bi    0Bi   100%       0                   0  100%   /net
+map auto_home                  0Bi    0Bi    0Bi   100%       0                   0  100%   /home
+/Applications/SecureCRT.app  233Gi  153Gi   78Gi    67% 1404970 9223372036853370837    0%   /private/var/folders/78/ztnxspxd0nj18v3bdz_c2tdm0000gn/T/AppTranslocation/714A936F-9FB9-457E-B8E0-211C13C2BDB9
